@@ -26,7 +26,7 @@ I'm interested in building practical systems combining **embedded hardware, IoT,
 
 ## 🌱 Currently Learning
 
-Linux • Networking • ROS • MQTT • Docker • Robotics • Computer Vision
+Linux • Networking • ROS • MQTT • Robotics • Computer Vision
 
 ## 🎯 Interests
 
